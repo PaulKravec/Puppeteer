@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "PUPPETEER_EXPERIMENTAL_CHROMIUM_MAC_ARM=true jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "jest-puppeteer": "^8.0.6",
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^19.8.0"
+  }
+}
+
+
